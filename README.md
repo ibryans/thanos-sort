@@ -5,7 +5,7 @@ Algoritmo de ordenação baseado na mentalidade de Thanos
 Repositório criado com o intuito de incentivar o uso de git e a contribuição em projetos open-source, e também para a participação do Hacktoberfest 2019! Feito por alunos da PUC-MG.
 
 ## Como funciona o algoritmo?
-A partir de um array, enquanto ele não estiver ordenado, eliminar metade de seus elementos (snap!). Continue até que os elementos fiquem ordenados, ou até que sobre apenas 1 (que é ordenado por padrão). Se Thanos programasse, certamente ele seria o primeiro a implementar hehe.
+A partir de um array de tamanho n, enquanto ele não estiver ordenado, eliminar n/2 (metade) elementos aleatórios (snap!). Continue até que os elementos fiquem ordenados, ou até que sobre apenas 1 (que é ordenado por padrão). Se Thanos programasse, certamente ele seria o primeiro a implementar hehe.
 
 ## Como participar?
 
