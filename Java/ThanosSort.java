@@ -1,6 +1,6 @@
 import java.util.Random;
 
-class ThanosSort {
+public class ThanosSort {
 
     static int[] remove(int[] array, int pos) {
         int[] arrayAux = new int[array.length -1];
